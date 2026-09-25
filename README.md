@@ -13,3 +13,7 @@ https://1drv.ms/x/c/f1c2e96ba698dfaa/IQBDczw5BqIkRb9Q_27Ym85FASbSncgIKjfj4DNhpfk
 ## testcase Coverage - application 
 [testcoverage.docx](https://github.com/user-attachments/files/32598500/testcoverage.docx)
 [testcoverage.xlsx](https://github.com/user-attachments/files/32599570/testcoverage.xlsx)
+
+## python coding
+[python coding 2.pdf](https://github.com/user-attachments/files/32645568/python.coding.2.pdf)
+
